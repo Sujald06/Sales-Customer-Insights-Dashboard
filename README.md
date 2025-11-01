@@ -204,7 +204,3 @@ pip install -r requirements.txt
 ---
 
 ⭐ *If you find this project useful, please give it a star — your support helps me grow!* 🌟  
-> “📊 Sales & Customer Insights Dashboard | Python • Power BI • Data Analytics”  
-in a sleek black theme to match your GitHub aesthetic)?  
-It’ll make the repo look **premium and portfolio-ready.**
-```
