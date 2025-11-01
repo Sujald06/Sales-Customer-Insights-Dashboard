@@ -137,11 +137,7 @@ machine_learning.html
 
 ---
 
-## 🖼️ Power BI Dashboard Preview
-
-> *(Replace with your own dashboard screenshot)*
-
-![Dashboard Preview](images/header-main.jpg)
+## 🖼️ Power BI Dashboard 
 
 This dashboard visualizes:
 
